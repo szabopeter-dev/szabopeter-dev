@@ -2,7 +2,7 @@
 <h3 align="center">A passionate engineering informatics student from Obuda University</h3>
 
 <p align="left">My Webpage: <a href="http://szaboptrdev.hu/">Szaboptrdev.hu</a><br>
-                Currently Using for University Projects
+                (Currently Using for University Projects)
 </p>
 <p align="left">
 </p>
