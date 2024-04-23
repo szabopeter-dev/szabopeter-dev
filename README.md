@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Peter Szabo</h1>
+<h1 align="center">👋Peter Szabo</h1>
 <h3 align="center">A passionate engineering informatics student from Obuda University</h3>
 
 - 🔭 I’m currently working on **ATM Cash Demands Forecasting for my thesis.**
